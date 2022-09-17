@@ -7,3 +7,4 @@ coverage
 !tmp/.gitkeep
 ormconfig.json
 package-lock.json
+yarn-error.log
